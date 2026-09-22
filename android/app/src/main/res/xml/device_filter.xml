@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Epson L120 and Seiko Epson USB Printer series (Vendor ID 1208 = 0x04b8) -->
+    <usb-device vendor-id="1208" />
+    <!-- Standard USB Printer Class 7 -->
+    <usb-device class="7" subclass="1" />
+</resources>

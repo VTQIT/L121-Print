@@ -1,0 +1,6 @@
+{
+  "name": "EasyPrint - USB & Network Mobile Printing",
+  "description": "Modern, beginner-friendly mobile printing app for Epson L120 USB OTG and network printers with realistic paper preview and print workflow.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
